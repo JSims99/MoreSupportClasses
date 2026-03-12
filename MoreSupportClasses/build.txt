@@ -1,0 +1,3 @@
+displayName = MSC
+author = SquidTestes
+version = 0.1
